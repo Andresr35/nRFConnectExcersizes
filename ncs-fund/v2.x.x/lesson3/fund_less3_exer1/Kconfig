@@ -1,3 +1,6 @@
+# This file has to do with files and building
+
+
 source "Kconfig.zephyr"
 
 config MYFUNCTION
